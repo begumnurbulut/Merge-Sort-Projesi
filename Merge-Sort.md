@@ -1,4 +1,4 @@
-##Merge Sort
+  Merge Sort
 **[16,21,11,8,12,22]**
 
 1-) Sort türüne göre aşamaları:
